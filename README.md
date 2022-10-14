@@ -15,14 +15,15 @@ $ pkg install php7
 $ git clone https://github.com/ozzanexx/tri
 
 jalankan perintah dibawah
+
 $ cd tri
 
 $ php tri.php
 
-login menggunakan nomor three
+
+login menggunakan nomor 3
 masukan otp ✓  
 done ✓
-
 
 
 
