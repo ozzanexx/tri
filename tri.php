@@ -1,7 +1,7 @@
 <?php
 
 echo @color("nevy","───────────────────────────────────────────\n");
-echo @color("green","                   JUDUL                  \n");
+echo @color("green","                   TOOLS DOR THREE                \n");
 echo @color("nevy","───────────────────────────────────────────\n");
 echo @color('purple', "NOMOR\t\t: ");
 $nomor = trim(fgets(STDIN));
